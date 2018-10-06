@@ -1,1 +1,0 @@
-# edgar-hd.github.io
