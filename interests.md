@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arbitrary
+title: Arbitrary thoughts
 permalink: /interests/
 ---
 
