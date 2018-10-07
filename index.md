@@ -13,4 +13,4 @@ My current research focuses on the understanding of cell fate decision from the 
 
 For the last year of my undergraduate degree I undertook a one year intenrship in Patrick Müller's lab at the Friedrich Miescher Laboratory of the Max Planck Society in Tübingen, Germany. Where I worked on understanding dorso-ventral patterning of gastrulating embryos using a combination of fluorescent labelling, light sheet microscopy and computational analysis.
 
-Apart from learning about and doing science, I enjoy playing tennis, playing guitar, dancing, reading novels and watching old movies.
+Apart from learning about and doing science, I enjoy playing tennis, playing guitar, reading novels and watching old movies.
