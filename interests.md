@@ -6,7 +6,7 @@ permalink: /interests/
 
 **Films**
 
-For no particular reson, here is a list of films which I've enjoyed (Chronological order)
+For no particular reason, here is a list of films which I've enjoyed (Chronological order)
 
 - Metropolis *1927*
 
