@@ -8,6 +8,8 @@ permalink: /interests/
 
 For no particular reason, here is a list of films which I've enjoyed (Chronological order)
 
+![Sanjuro](assets/Sanjuro.jpg)
+
 - Metropolis *1927*
 
 - Yojimbo (用心棒) *1961*
