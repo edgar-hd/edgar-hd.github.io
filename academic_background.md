@@ -33,7 +33,7 @@ permalink: /academic_background/
 
 - **Poster presentation**: Spatially Distributed Stochastic Dynamical Systems in Biology Workshop, June 20 - June 24, 2016. (Isaac Newton Institute for Mathematical Sciences, Cambridge University). Cambridge, UK
 
-- **Attended**: Machine Learning Summer School, July 13 - July 24 (Max Planck Institute for Intelligent Systems). Tübingen, Germany.
+- **Attended**: Machine Learning Summer School, July 13 - July 24. (Max Planck Institute for Intelligent Systems). Tübingen, Germany.
 
 **Conferences organised**
 
