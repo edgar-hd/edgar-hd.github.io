@@ -15,7 +15,7 @@ permalink: /academic_background/
 
 **Conferences attended**
 
-- **Selected for talk (upcoming)**: International Conference for Systems Biology (ICSB). October 27 - November 1, 2018. Lyon, France.
+- **Selected for talk**: International Conference for Systems Biology (ICSB). October 27 - November 1, 2018. Lyon, France.
 
 - **Invited for talk**: European LCG-UNAM Symposium 2018 (ELUS). April 19 - April 20, 2018. (ENS). Paris, France.
 

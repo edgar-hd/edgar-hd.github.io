@@ -51,3 +51,7 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - Birdman or (The Unexpected Virtue of Ignorance) *2014*
 
 - You Were Never Really Here *2017*
+
+- Wrath of Silence (Bao lie wu sheng) *2017*
+
+- Cold War (Zimna wojna) *2018*
