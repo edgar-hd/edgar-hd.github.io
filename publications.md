@@ -2,6 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
+lang: en
 ---
 
 Working on making the above plural . . .

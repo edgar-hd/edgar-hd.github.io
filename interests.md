@@ -2,6 +2,7 @@
 layout: page
 title: Arbitrary thoughts
 permalink: /interests/
+lang: en
 ---
 
 **Films**
@@ -52,6 +53,6 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - You Were Never Really Here *2017*
 
-- Wrath of Silence (Bao lie wu sheng) *2017*
+- Wrath of Silence (暴裂无声) *2017*
 
 - Cold War (Zimna wojna) *2018*

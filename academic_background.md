@@ -2,6 +2,7 @@
 layout: page
 title: Academic background
 permalink: /academic_background/
+lang: en
 ---
 
 **Education**
