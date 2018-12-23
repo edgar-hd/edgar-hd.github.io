@@ -49,6 +49,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Leviathan (Левиафан) *2014*
 
+- Far from Men (Loin des hommes) *2014*
+
 - Birdman or (The Unexpected Virtue of Ignorance) *2014*
 
 - You Were Never Really Here *2017*
