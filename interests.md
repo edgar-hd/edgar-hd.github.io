@@ -27,6 +27,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Ghost in the Shell (攻殻機動隊) *1995*
 
+- Maborosi (幻の光) *1996*
+
 - The Eel (うなぎ) *1997*
 
 - Amores perros *2000*
