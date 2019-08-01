@@ -16,6 +16,9 @@ lang: en
 
 **Conferences attended**
 
+
+- **Selected for talk**: StatPhys27. July 8 - July 12, 2019. Buenos Aires, Argentina.
+
 - **Selected for talk**: International Conference for Systems Biology (ICSB). October 27 - November 1, 2018. Lyon, France.
 
 - **Invited for talk**: European LCG-UNAM Symposium 2018 (ELUS). April 19 - April 20, 2018. (ENS). Paris, France.
@@ -37,6 +40,8 @@ lang: en
 - **Attended**: Machine Learning Summer School, July 13 - July 24, 2015. (Max Planck Institute for Intelligent Systems). Tübingen, Germany.
 
 **Conferences organised**
+
+- Quantitative Systems Biology workshop (QSB2019). *upcoming*. King’s College London, London, UK.
 
 - Quantitative Systems Biology workshop ([QSB2018](https://qsbworkshop.github.io/qsb2018/)). November 9, 2018. King’s College London, London, UK.
 
