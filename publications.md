@@ -23,6 +23,6 @@ the act of making information<br/>
 or stories available to people<br/>
 in a printed or electronic form
 
-So technically I can now say I have publications
+So I can now say I have publications
 
 ---
