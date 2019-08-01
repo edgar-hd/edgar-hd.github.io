@@ -25,6 +25,6 @@ in a printed or electronic form
 
 --
 
-So I can now say I have *publications*
+So I can now say I have publication*s*
 
 ---
