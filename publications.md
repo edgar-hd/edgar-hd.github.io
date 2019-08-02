@@ -5,7 +5,7 @@ permalink: /publications/
 lang: en
 ---
 
-\* Equal contribution, ‡ Correspondence
+\* Equal contribution, <sup>☯</sup> Correspondence
 
 Exelby K\*, **Herrera-Delgado E**\*<sup>☯</sup>, Garcia Perez L, Perez-Carrasco R, Sagner A, Metzis V, Sollich P<sup>☯</sup> and Briscoe J<sup>☯</sup>. (2019). Precision of Tissue Patterning is Controlled by Dynamical Properties of Gene Regulatory Networks. [*bioRxiv*](https://doi.org/10.1101/721043). 10.1101/721043. [PDF]({{edgar-hd.github.io}}/assets/papers/721043.full.pdf)
 
