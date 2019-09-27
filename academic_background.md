@@ -41,7 +41,7 @@ lang: en
 
 **Conferences organised**
 
-- Quantitative Systems Biology workshop (QSB2019). *upcoming*. King’s College London, London, UK.
+- Quantitative Systems Biology workshop ([QSB2019](https://qsbworkshop.github.io/qsb2019/)). October 28-29, 2019 *upcoming*. King’s College London, London, UK.
 
 - Quantitative Systems Biology workshop ([QSB2018](https://qsbworkshop.github.io/qsb2018/)). November 9, 2018. King’s College London, London, UK.
 
