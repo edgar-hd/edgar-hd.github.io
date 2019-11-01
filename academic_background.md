@@ -16,10 +16,11 @@ lang: en
 
 **Conferences attended**
 
+- **Selected for talk**: International Conference for Systems Biology 2019 (ICSB2019). November 1 - November 5, 2019. Okinawa, Japan.
 
 - **Selected for talk**: StatPhys27. July 8 - July 12, 2019. Buenos Aires, Argentina.
 
-- **Selected for talk**: International Conference for Systems Biology (ICSB). October 27 - November 1, 2018. Lyon, France.
+- **Selected for talk**: International Conference for Systems Biology 2018 (ICSB2018). October 27 - November 1, 2018. Lyon, France.
 
 - **Invited for talk**: European LCG-UNAM Symposium 2018 (ELUS). April 19 - April 20, 2018. (ENS). Paris, France.
 
