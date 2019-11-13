@@ -68,3 +68,9 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
 
 - Makoto Shinkai (新海誠)
+
+- Akira Kurosawa (黒澤明)
+
+- Andrei Tarkovsky (Андре́й Тарко́вский)
+
+- Andrey Zvyagintsev (Андре́й Звя́гинцев)
