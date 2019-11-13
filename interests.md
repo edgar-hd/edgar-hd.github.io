@@ -62,3 +62,9 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - Cold War (Zimna wojna) *2018*
 
 - Pain and Glory (Dolor y gloria) *2019*
+
+**Film directors**
+
+Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
+
+- Makoto Shinkai (新海誠)
