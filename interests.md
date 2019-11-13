@@ -63,13 +63,14 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Pain and Glory (Dolor y gloria) *2019*
 
+
 **Film directors**
 
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
 
-- Makoto Shinkai (新海誠)
-
 - Akira Kurosawa (黒澤明)
+
+- Makoto Shinkai (新海誠)
 
 - Andrei Tarkovsky (Андре́й Тарко́вский)
 
