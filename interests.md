@@ -13,6 +13,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Metropolis *1927*
 
+- Fate of a Man (Судьба человека) *1959*
+
 - Yojimbo (用心棒) *1961*
 
 - The Sword of Doom (大菩薩峠) *1966*
@@ -39,11 +41,11 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Tokyo Godfathers (東京ゴッドファーザーズ) *2003*
 
+- The Return (Возвращение) *2003*
+
 - A History of Violence *2005*
 
 - Volver *2006*
-
-- Alatriste *2006*
 
 - 5 Centimeters per Second (秒速5センチメートル) *2007*
 
@@ -54,6 +56,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - Far from Men (Loin des hommes) *2014*
 
 - Birdman or (The Unexpected Virtue of Ignorance) *2014*
+
+- Your Name (君の名は) *2016*
 
 - You Were Never Really Here *2017*
 
