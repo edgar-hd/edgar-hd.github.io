@@ -7,7 +7,7 @@ lang: en
 
 **Education**
 
-**2015 -** : PhD candidate in  James Briscoe’s lab at the Francis Crick Institute and Peter Sollich’s group at King’s College London, London, UK.
+**2015 - 2020** : PhD in  James Briscoe’s lab at the Francis Crick Institute and Peter Sollich’s group at King’s College London, London, UK.
 
 **2014 - 2015**: Internship in Patrick Müller's lab at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
@@ -42,7 +42,7 @@ lang: en
 
 **Conferences organised**
 
-- Quantitative Systems Biology workshop ([QSB2019](https://qsbworkshop.github.io/qsb2019/)). October 28-29, 2019 *upcoming*. King’s College London, London, UK.
+- Quantitative Systems Biology workshop ([QSB2019](https://qsbworkshop.github.io/qsb2019/)). October 28-29, 2019. King’s College London, London, UK.
 
 - Quantitative Systems Biology workshop ([QSB2018](https://qsbworkshop.github.io/qsb2018/)). November 9, 2018. King’s College London, London, UK.
 
