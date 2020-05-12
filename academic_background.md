@@ -7,11 +7,11 @@ lang: en
 
 **Education**
 
-**2015 - 2020** : PhD in  James Briscoe’s lab at the Francis Crick Institute and Peter Sollich’s group at King’s College London, London, UK.
+**2015 - 2020** : PhD in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich’s group](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) at King’s College London, London, UK.
 
-**2014 - 2015**: Internship in Patrick Müller's lab at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
+**2014 - 2015**: Internship in [Patrick Müller's lab](https://www.fml.tuebingen.mpg.de/de/mueller-group/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
-**2011 - 2015**: Undergraduate degree in Genomic Sciences (with honors) at Universidad Nacional Autónoma de México (UNAM), Cuernavaca, Mexico.
+**2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) (with honors) at Universidad Nacional Autónoma de México (UNAM), Cuernavaca, Mexico.
 
 
 **Conferences attended**
