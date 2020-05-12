@@ -27,6 +27,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Akira (アキラ) *1988*
 
+- Tetsuo: The Iron Man (鉄男) *1989*
+
 - Ghost in the Shell (攻殻機動隊) *1995*
 
 - Maborosi (幻の光) *1996*
