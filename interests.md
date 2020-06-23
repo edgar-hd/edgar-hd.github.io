@@ -19,6 +19,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - The Sword of Doom (大菩薩峠) *1966*
 
+- The Face of Another (他人の顔) *1966*
+
 - Solaris (Солярис) *1972*
 
 - The Godfather *1972*
