@@ -5,6 +5,11 @@ permalink: /academic_background/
 lang: en
 ---
 
+**Current position**
+
+**2020 - present** : Postdoctoral researcher in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, UK.
+
+
 **Education**
 
 **2015 - 2020** : PhD in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich’s group](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) at King’s College London, London, UK.
