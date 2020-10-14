@@ -7,7 +7,7 @@ lang: en
 
 **Current position**
 
-**2020 - present** : Postdoctoral researcher in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, UK.
+**2020 - present** : Postdoctoral researcher in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, France.
 
 
 **Education**

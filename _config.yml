@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Edgar Herrera Delgado
-email: edgar.herrera-delgado ( @ ) crick.ac.uk
+email: edgar.herrera-delgado ( @ ) curie.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in London working on understanding developmental patterning as a dynamical system. Feel free to contact me to chat about anything.
+  Postdoc researcher in Paris, modelling and experiments on early stage blastocysts. Feel free to contact me to chat about anything.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
