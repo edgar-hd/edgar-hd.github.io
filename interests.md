@@ -17,6 +17,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Yojimbo (用心棒) *1961*
 
+- 8½ (Otto e mezzo) *1963*
+
 - The Sword of Doom (大菩薩峠) *1966*
 
 - The Face of Another (他人の顔) *1966*
