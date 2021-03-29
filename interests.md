@@ -82,6 +82,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
 
+- Naomi Kawase (河瀨直美)
+
 - Akira Kurosawa (黒澤明)
 
 - Makoto Shinkai (新海誠)
