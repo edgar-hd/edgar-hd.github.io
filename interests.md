@@ -65,6 +65,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Birdman or (The Unexpected Virtue of Ignorance) *2014*
 
+- Sweet Bean (あん) *2015*
+
 - Your Name (君の名は) *2016*
 
 - You Were Never Really Here *2017*
