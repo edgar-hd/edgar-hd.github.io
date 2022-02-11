@@ -16,8 +16,25 @@ lang: en
 
 **2014 - 2015**: Internship in [Patrick Müller's lab](https://www.fml.tuebingen.mpg.de/de/mueller-group/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
-**2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) (with honors) at Universidad Nacional Autónoma de México (UNAM), Cuernavaca, Mexico.
+**2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) (9.7/10 GPA, with honors) at UNAM (Universidad Nacional Autónoma de México), Cuernavaca, Mexico.
 
+**Funding**
+
+**2022 - 2024**: EMBO (European Molecular Biology Organization) Postdoctoral Fellowship (ALTF 641-2021).
+
+**2020 - 2022**: FRM (Fondation pour la Recherche Médicale) Postdoctoral Fellowship (SPF202004011843).
+
+**2015 - 2020**: The Francis Crick Institute / King's College London PhD scholarship.
+
+**2015 - 2019**: CONCYTEP (Consejo de Ciencia y Tecnologia del Estado de Puebla) and CONACYT (Consejo Nacional de Ciencia y Tecnologia) International PhD scholarship.
+
+**2014 - 2015**: UNAM (Universidad Nacional Autónoma de México) Undergraduate International Mobility Scholarship of Academic Excellence. Sponsored by Coca Cola foundation, through "Fundación UNAM".
+
+**2014 - 2015**: ZAV (Zentrale Auslands Fachvermittlung) Stipend for practicums in Germany .
+
+**2012 - 2015**: Undergraduate Scholarship of Academic Excellency, Department of Public Education in Mexico (SEP).
+
+**2013 - 2014**: Salary Scholarship, State of Morelos, Mexico.
 
 **Conferences attended**
 
@@ -52,3 +69,8 @@ lang: en
 - Quantitative Systems Biology workshop ([QSB2018](https://qsbworkshop.github.io/qsb2018/)). November 9, 2018. King’s College London, London, UK.
 
 - Quantitative Systems Biology workshop ([QSB2017](https://qsbworkshop.github.io/qsb2017/)). November 3, 2017. King’s College London, London, UK.
+
+
+**Teaching**
+
+- Teaching assistant for linear algebra module at Undergraduate Level at UNAM. Cuernavaca, Mexico. 2014
