@@ -14,12 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Edgar Herrera Delgado
-email: edgar.herrera-delgado ( @ ) curie.fr
+email: edgar.hd ( @ ) protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral researcher in Paris, modelling and experiments on early stage blastocysts. Feel free to contact me to chat about anything.
+  Postdoctoral researcher specialised in quantitative approaches, based in Paris. Feel free to contact me to chat about anything.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: edge_hd
+github_username: edgar-hd
 twitter_username: edge_hd
 
 # Build settings

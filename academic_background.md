@@ -7,12 +7,12 @@ lang: en
 
 **Current position**
 
-**2020 - present** : Postdoctoral researcher in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, France.
+**2020 - present** : Postdoctoral researcher in Biophysics in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, France.
 
 
 **Education**
 
-**2015 - 2020** : PhD in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich’s group](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) at King’s College London, London, UK.
+**2015 - 2020** : PhD in Applied Mathematics in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) in the [Disordered Systems group](https://dissyskcl.github.io/) at King’s College London, London, UK.
 
 **2014 - 2015**: Internship in [Patrick Müller's lab](https://www.fml.tuebingen.mpg.de/de/mueller-group/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
