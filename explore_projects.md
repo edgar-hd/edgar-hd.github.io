@@ -11,3 +11,6 @@ Here are projects I have developed, the links refer to the Github repositories w
 
 - **[Code to calculate the beer volume in a glass](https://github.com/edgar-hd/deepBeerLevelz)**: Model trained using data from webcam using Convolutional Neural Networks to provide a regression to beer volume.
 
+<video autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/assets/2gsequence_video.mp4" type="video/mp4">
+</video>
