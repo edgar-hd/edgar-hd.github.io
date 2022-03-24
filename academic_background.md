@@ -16,7 +16,7 @@ lang: en
 
 **2014 - 2015**: Internship in [Patrick Müller's lab](https://www.fml.tuebingen.mpg.de/de/mueller-group/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
-**2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) (9.7/10 GPA, with honors) at UNAM (Universidad Nacional Autónoma de México), Cuernavaca, Mexico.
+**2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) Speciality: Computer Science (9.7/10 GPA, with honors) at UNAM (Universidad Nacional Autónoma de México), Cuernavaca, Mexico.
 
 **Funding**
 
