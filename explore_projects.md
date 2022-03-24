@@ -11,7 +11,7 @@ Here are projects I have developed, the links refer to the Github repositories w
 
 ![Dendogram](/assets/dendogram_trends.png)
 
-- **[Code to calculate the beer volume in a glass](https://github.com/edgar-hd/deepBeerLevelz)**: Model trained using data from webcam using Convolutional Neural Networks to provide a regression to beer volume.
+- **[Calculating beer volume in a glass](https://github.com/edgar-hd/deepBeerLevelz)**: Model trained using data from webcam using Convolutional Neural Networks to provide a regression to beer volume.
 
 <table>
  <td> <video autoplay="autoplay" loop="loop" width="340" height="512">
