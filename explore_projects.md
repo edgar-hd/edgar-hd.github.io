@@ -5,7 +5,7 @@ permalink: /explore_projects/
 lang: en
 ---
 
-Here are projects I have developed, the links refer to the Github repositories where the code is freely available and the corresponding jupyter (.ipynb) notebook contains extensive markdown to explain the motivation, development and conclusions of the project.
+Here are projects I have developed, the links refer to the Github repositories where the code is freely available and the corresponding jupyter (.ipynb) notebook contains extensive markdown to explain the motivation, development and conclusions of the project. I enjoy working through projects from beginning to end, so in each of those project I start by conceptualising the question, collecting the data, cleaning, analysing, modelling, interpretation and giving future perspectives.
 
 - **[Analysis of tweets involving the hashtag "#UN"](https://github.com/edgar-hd/UN-tweets)**: Analysis of distribution and sentiment of user response through tweets pertaining to major political events.
 
