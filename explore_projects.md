@@ -26,7 +26,7 @@ Techniques: Data collection, Convolutional Neural Networks.
 
 </table>
 
-Academic projects: These have been developed in an academic context using a combination of Mathematica, python, R, Matlab and Shell, as suitable for each purpose. See the explanations below and corresponding publications:
+**Academic projects:** These have been developed in an academic context using a combination of Mathematica, python, R, Matlab and Shell, as suitable for each purpose. See the explanations below and corresponding publications:
 
 - **Compilation of all mathematical and physical advances in modelling pre-implantation embryonic development.** We performed an in detail revision of the extensive literature of the field, went through the modelling approaches and synthesised the knowledge into a concise article. Topics covered are dynamical systems theory, agent based modelling, single-cell sequencing, stochastic differential equations and data visualisation.\\
 See: **Herrera-Delgado E** and Maître JL<sup>†</sup>. (2021). A theoretical understanding of mammalian preimplantation development. [*Cells Dev*](https://www.sciencedirect.com/science/article/pii/S2667290121000863). 203752. [PDF]({{edgar-hd.github.io}}/assets/papers/1-s2.0-S2667290121000863-main.pdf)
@@ -41,6 +41,6 @@ See: Exelby K\*, **Herrera-Delgado E**\*<sup>†</sup>, Garcia Perez L, Perez-Ca
 See: **Herrera-Delgado E**, Briscoe J<sup>†</sup> and Sollich P<sup>†</sup>. (2020). Tractable nonlinear memory functions as a tool to capture and explain dynamical behaviors. [*Phys Rev Research*](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043069). 10.1103/PhysRevResearch.2.043069. [PDF]({{edgar-hd.github.io}}/assets/papers/PhysRevResearch.2.043069.pdf)
 ![Models](/assets/Fig_2_alt2.png)
 
-- **Deconstruction of memory functions to find the most important features of a model.** We used classical mechanics to construct models that can be simplified into memory functions. We then analysed those memory functions to find key components of the networks. Main tools: Projection techniques, Matrix Calculus, Data visualisation, Storytelling.<<
+- **Deconstruction of memory functions to find the most important features of a model.** We used classical mechanics to construct models that can be simplified into memory functions. We then analysed those memory functions to find key components of the networks. Main tools: Projection techniques, Matrix Calculus, Data visualisation, Storytelling.\\
 See: **Herrera-Delgado E**, Perez-Carrasco R, Briscoe J<sup>†</sup> and Sollich P<sup>†</sup>. (2018). Memory Functions Reveal Structural Properties of Gene Regulatory Networks. [*PLoS Comput Biol*](https://doi.org/10.1371/journal.pcbi.1006003). 14(2):e1006003. [PDF]({{edgar-hd.github.io}}/assets/papers/journal.pcbi.1006003.full.pdf)
 ![Models](/assets/Fig_0.png)
