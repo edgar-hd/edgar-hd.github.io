@@ -8,13 +8,13 @@ lang: en
 
 ![My face](/assets/EHD.jpg)
 
-As of 2020 I am working as a postdoc at the Institut Curie in Jean-Léon Maître's lab.
+From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed pipelines to analyse complex 3D data in a simplified and semi-automated fashion.
 
 I completed my PhD as a joint student between James Briscoe's lab at the Francis Crick Institute and Peter Sollich's group at King's College London in 2020.
 My research focused on the understanding of cell fate decision from the perspective of biology as a dynamical system.
-I employed a variety of tools from statistical physics, mathematics and machine learning to understand these systems' fundamental properties.
+I employed a variety of tools from mathematics, machine learning and statistical physics to understand these systems' fundamental properties.
 In particular, I explored the properties of conserved modules in regulatory networks and how this affects biologically relevant aspects such as fate specification time, patterning precision or robustness to perturbations.
-I combined my theoretical expertise with collaborative experimental techniques in order to assure the accuracy of the resulting predictions and observations, see [Projects](https://edgar-hd.github.io/explore_projects/) and see [Publications](https://edgar-hd.github.io/publications/).
+I combined my theoretical expertise by working with experimental collaborators which ensured the modelling and predictions had a true impact on scientific discovery, see [Projects](https://edgar-hd.github.io/explore_projects/) and see [Publications](https://edgar-hd.github.io/publications/).
 
 For the last year of my undergraduate degree I undertook a one year internship in Patrick Müller's lab at the Friedrich Miescher Laboratory of the Max Planck Society in Tübingen, Germany.
 Where I worked on understanding dorso-ventral patterning of gastrulating embryos using a combination of light sheet microscopy, computational analysis and fluorescent labelling.
