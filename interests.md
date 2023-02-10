@@ -31,6 +31,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Taxi Driver *1976*
 
+- Neo Tokyo (迷宮物語) *1987*
+
 - Akira (アキラ) *1988*
 
 - Tetsuo: The Iron Man (鉄男) *1989*

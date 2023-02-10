@@ -8,6 +8,10 @@ lang: en
 
 ![My face](/assets/EHD.jpg)
 
+I work as a data scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), based in Barcelona, Spain.
+
+Below is a description of my academic background.
+
 From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed pipelines to analyse complex 3D data in a simplified and semi-automated fashion.
 
 I completed my PhD as a joint student between James Briscoe's lab at the Francis Crick Institute and Peter Sollich's group at King's College London in 2020.
