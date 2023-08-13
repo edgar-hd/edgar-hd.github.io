@@ -71,6 +71,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Sweet Bean (あん) *2015*
 
+- Our Little Sister (海街) *2015*
+
 - Your Name (君の名は) *2016*
 
 - You Were Never Really Here *2017*
@@ -88,6 +90,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
 
 - Naomi Kawase (河瀨直美)
+
+- Hirokazu Kore-eda (是枝裕和)
 
 - Akira Kurosawa (黒澤明)
 

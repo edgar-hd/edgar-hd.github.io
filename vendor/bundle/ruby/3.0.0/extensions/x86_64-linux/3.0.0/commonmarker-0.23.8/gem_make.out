@@ -1,11 +1,11 @@
-current directory: /home/eggman/Documents/edgar-hd/edgar-hd.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230210-832091-3pabu5.rb extconf.rb
+current directory: /home/eggman/Documents/edgar-hd/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230814-1414905-8xwjxr.rb extconf.rb
 creating Makefile
 
-current directory: /home/eggman/Documents/edgar-hd/edgar-hd.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
+current directory: /home/eggman/Documents/edgar-hd/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
 make DESTDIR\= clean
 
-current directory: /home/eggman/Documents/edgar-hd/edgar-hd.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
+current directory: /home/eggman/Documents/edgar-hd/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
 make DESTDIR\=
 compiling arena.c
 compiling autolink.c
@@ -57,6 +57,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
-current directory: /home/eggman/Documents/edgar-hd/edgar-hd.github.io/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
+current directory: /home/eggman/Documents/edgar-hd/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.8/ext/commonmarker
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20230210-832091-hz0x4q/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20230814-1414905-pa395a/commonmarker
