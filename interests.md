@@ -41,6 +41,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Maborosi (幻の光) *1996*
 
+- Suzaku (萌の朱雀) *1997*
+
 - The Eel (うなぎ) *1997*
 
 - Amores perros *2000*
@@ -82,6 +84,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - Cold War (Zimna wojna) *2018*
 
 - Pain and Glory (Dolor y gloria) *2019*
+
+- Drive My Car (ドライブ・マイ・カー) *2021*
 
 - Crimes of the Future *2022*
 
