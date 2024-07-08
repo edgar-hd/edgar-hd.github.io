@@ -6,23 +6,20 @@ layout: home
 lang: en
 ---
 
-![My face](/assets/EHD.jpg)
+![My face](/assets/Tezca.jpg)
 
-I work as a data scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), based in Barcelona, Spain.
+I work as a data scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), based in Barcelona, Spain. Interested in statistics, recommender systems, computer vision, reinforcement learning and stable diffusion.
 
-Below is a description of my academic background.
+Below is a brief description of my academic background.
 
-From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed pipelines to analyse complex 3D data in a simplified and semi-automated fashion.
+From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed pipelines to analyse 3D images in a semi-automated fashion and perform precise measurements.
 
 I completed my PhD as a joint student between James Briscoe's lab at the Francis Crick Institute and Peter Sollich's group at King's College London in 2020.
 My research focused on the understanding of cell fate decision from the perspective of biology as a dynamical system.
 I employed a variety of tools from mathematics, machine learning and statistical physics to understand these systems' fundamental properties.
 In particular, I explored the properties of conserved modules in regulatory networks and how this affects biologically relevant aspects such as fate specification time, patterning precision or robustness to perturbations.
-I combined my theoretical expertise by working with experimental collaborators which ensured the modelling and predictions had a true impact on scientific discovery, see [Projects](https://edgar-hd.github.io/explore_projects/) and see [Publications](https://edgar-hd.github.io/publications/).
+The research was multidisciplinary and collaborative in nature, with theory and experiments combining to discover scientific results, see [Projects](https://edgar-hd.github.io/explore_projects/) and [Publications](https://edgar-hd.github.io/publications/).
 
-For the last year of my undergraduate degree I undertook a one year internship in Patrick Müller's lab at the Friedrich Miescher Laboratory of the Max Planck Society in Tübingen, Germany.
-Where I worked on understanding dorso-ventral patterning of gastrulating embryos using a combination of light sheet microscopy, computational analysis and fluorescent labelling.
-
-I like developing codes for personal projects, some of which are openly available on my Github, see [Projects](https://edgar-hd.github.io/explore_projects/).
+I enjoy developing personal projects, some of which you may find here [Projects](https://edgar-hd.github.io/explore_projects/).
 
 I also enjoy playing tennis, reading novels (very slowly) and watching old movies, see [Arbitrary thoughts](https://edgar-hd.github.io/interests/).

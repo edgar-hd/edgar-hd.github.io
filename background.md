@@ -5,23 +5,27 @@ permalink: /background/
 lang: en
 ---
 
-**Experience**
+**Work Experience**
 
-**2020 - 2022** : Research Fellow in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, France.
+**2022 - present** : Data Scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), Barcelona, Spain.
 
-**2015 - 2020** : Doctoral Researcher in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) in the [Disordered Systems group](https://dissyskcl.github.io/) at King’s College London, London, UK.
+**2022**: Machine Learning Engineer at [Quantillion Technologies](https://www.quantillion.io/), Amsterdam, The Netherlands.
 
-**2014 - 2015**: Undergraduate Researcher in [Patrick Müller's lab](https://www.fml.tuebingen.mpg.de/de/mueller-group/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
+**2020 - 2022** : Research Scientist in [Jean-Léon Maître's lab](https://science.institut-curie.org/research/biology-cancer-genetics-and-epigenetics/developmental-biology-and-genetics/team-maitre/) at the Institut Curie, Paris, France.
+
+**2015 - 2020** : PhD Researcher in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and with [Peter Sollich](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) in the [Disordered Systems group](https://dissyskcl.github.io/) at King’s College London, London, UK.
+
+**2014 - 2015**: Undergraduate Researcher in [Patrick Müller's lab](https://www.biologie.uni-konstanz.de/mueller/patrick-mueller/) at the Friedrich Miescher Laboratory of the Max Planck Society, Tübingen, Germany.
 
 **Education**
 
-**2015 - 2020** : PhD in Applied Mathematics in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and [Peter Sollich](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) in the [Disordered Systems group](https://dissyskcl.github.io/) at King’s College London, London, UK.
+**2015 - 2020** : PhD in Applied Mathematics in [James Briscoe’s lab](https://briscoelab.org/) at The Francis Crick Institute and with [Peter Sollich](https://www.uni-goettingen.de/en/prof.+dr.+peter+sollich+/583011.html) in the [Disordered Systems group](https://dissyskcl.github.io/) at King’s College London, London, UK.
 
 **2011 - 2015**: Undergraduate degree in [Genomic Sciences](https://www.lcg.unam.mx/) Speciality: Computer Science (9.7/10 GPA, with honors) at UNAM (Universidad Nacional Autónoma de México), Cuernavaca, Mexico.
 
 **Academic Funding**
 
-**2022 - 2022**: EMBO (European Molecular Biology Organization) Long Term Postdoctoral Fellowship (ALTF 641-2021).
+**2022 - 2024**: EMBO (European Molecular Biology Organization) Long Term Postdoctoral Fellowship (ALTF 641-2021).
 
 **2020 - 2022**: FRM (Fondation pour la Recherche Médicale) Postdoctoral Fellowship (SPF202004011843).
 

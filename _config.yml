@@ -16,11 +16,11 @@
 title: Edgar Herrera Delgado
 email: edgar.hd ( @ ) protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data scientist specialised in quantitative, tailored approaches, based in Barcelona. Feel free to contact me to chat about anything.
+  Data scientist specialised in statistics and recommendation systems, based in Barcelona. Contact me to chat about anything.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: edge_hd
+linkedin_username: edgar-hd
 github_username: edgar-hd
 twitter_username: edge_hd
 
@@ -28,7 +28,7 @@ twitter_username: edge_hd
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-include
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +41,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navigation:
+  exclude_from_nav: true
