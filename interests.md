@@ -85,6 +85,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Pain and Glory (Dolor y gloria) *2019*
 
+- Beyond the Infinite Two Minutes (ドロステのはてで僕ら) *2020*
+
 - Drive My Car (ドライブ・マイ・カー) *2021*
 
 - Crimes of the Future *2022*

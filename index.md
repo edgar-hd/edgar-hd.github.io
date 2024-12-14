@@ -8,11 +8,11 @@ lang: en
 
 ![My face](/assets/Tezca.jpg)
 
-I work as a data scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), based in Barcelona, Spain. Interested in statistics, recommender systems, computer vision, reinforcement learning and stable diffusion.
+I work as a data scientist at [Preply](https://preply.com/), based in Barcelona, Spain. Main interests are recommender systems, causal inference, bayesian statistics, computer vision, reinforcement learning and stable diffusion.
 
 Below is a brief description of my academic background.
 
-From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed pipelines to analyse 3D images in a semi-automated fashion and perform precise measurements.
+From 2020 to 2022 I worked as a postdoc at the Institut Curie in Jean-Léon Maître's lab. Here I developed machine learning models to analyse 3D images in a semi-automated fashion and perform precise measurements.
 
 I completed my PhD as a joint student between James Briscoe's lab at the Francis Crick Institute and Peter Sollich's group at King's College London in 2020.
 My research focused on the understanding of cell fate decision from the perspective of biology as a dynamical system.

@@ -7,7 +7,9 @@ lang: en
 
 **Work Experience**
 
-**2022 - present** : Data Scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), Barcelona, Spain.
+**2024 - present** : Data Scientist at [Preply](https://preply.com/), Barcelona, Spain.
+
+**2022 - 2024** : Data Scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), Barcelona, Spain.
 
 **2022**: Machine Learning Engineer at [Quantillion Technologies](https://www.quantillion.io/), Amsterdam, The Netherlands.
 
