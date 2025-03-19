@@ -45,6 +45,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - The Eel (うなぎ) *1997*
 
+- Ghost Dog: The Way of the Samurai *1999*
+
 - Amores perros *2000*
 
 - Crouching Tiger, Hidden Dragon (卧虎藏龙) *2000*
