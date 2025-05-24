@@ -31,11 +31,15 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Taxi Driver *1976*
 
+- Un Dessert pour Constance (Dessert for Constance) *1981*
+
 - Neo Tokyo (迷宮物語) *1987*
 
 - Akira (アキラ) *1988*
 
 - Tetsuo: The Iron Man (鉄男) *1989*
+
+- A Scene at the Sea (あの夏、いちばん静かな海) *1991*
 
 - Ghost in the Shell (攻殻機動隊) *1995*
 
@@ -93,9 +97,13 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Crimes of the Future *2022*
 
+- Monster (怪物) *2023*
+
 **Film directors**
 
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
+
+- David Cronenberg
 
 - Naomi Kawase (河瀨直美)
 
