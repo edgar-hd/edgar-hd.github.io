@@ -89,8 +89,6 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Cold War (Zimna wojna) *2018*
 
-- Pain and Glory (Dolor y gloria) *2019*
-
 - Beyond the Infinite Two Minutes (ドロステのはてで僕ら) *2020*
 
 - Drive My Car (ドライブ・マイ・カー) *2021*
@@ -106,6 +104,8 @@ Similarly, here is a list of film directors I particularly enjoy (Surname alphab
 - David Cronenberg
 
 - Naomi Kawase (河瀨直美)
+
+- Satoshi Kon (今敏)
 
 - Hirokazu Kore-eda (是枝裕和)
 
