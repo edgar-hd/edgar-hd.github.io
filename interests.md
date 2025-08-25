@@ -31,17 +31,25 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Taxi Driver *1976*
 
+- Un Dessert pour Constance (Dessert for Constance) *1981*
+
 - Neo Tokyo (迷宮物語) *1987*
 
 - Akira (アキラ) *1988*
 
 - Tetsuo: The Iron Man (鉄男) *1989*
 
+- A Scene at the Sea (あの夏、いちばん静かな海) *1991*
+
 - Ghost in the Shell (攻殻機動隊) *1995*
 
 - Maborosi (幻の光) *1996*
 
+- Suzaku (萌の朱雀) *1997*
+
 - The Eel (うなぎ) *1997*
+
+- Ghost Dog: The Way of the Samurai *1999*
 
 - Amores perros *2000*
 
@@ -63,6 +71,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - A Christmas Tale (Un conte de Noël) *2008*
 
+- Like Father, Like Son (そして父になる) *2013*
+
 - Leviathan (Левиафан) *2014*
 
 - Far from Men (Loin des hommes) *2014*
@@ -70,6 +80,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - Birdman or (The Unexpected Virtue of Ignorance) *2014*
 
 - Sweet Bean (あん) *2015*
+
+- Our Little Sister (海街) *2015*
 
 - Your Name (君の名は) *2016*
 
@@ -79,15 +91,25 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Cold War (Zimna wojna) *2018*
 
-- Pain and Glory (Dolor y gloria) *2019*
+- Beyond the Infinite Two Minutes (ドロステのはてで僕ら) *2020*
+
+- Drive My Car (ドライブ・マイ・カー) *2021*
 
 - Crimes of the Future *2022*
+
+- Monster (怪物) *2023*
 
 **Film directors**
 
 Similarly, here is a list of film directors I particularly enjoy (Surname alphabetical order)
 
+- David Cronenberg
+
 - Naomi Kawase (河瀨直美)
+
+- Satoshi Kon (今敏)
+
+- Hirokazu Kore-eda (是枝裕和)
 
 - Akira Kurosawa (黒澤明)
 
