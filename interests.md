@@ -13,6 +13,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Metropolis *1927*
 
+- New Women (新女性) *1935*
+
 - Ikiru (生きる) *1952*
 
 - Fate of a Man (Судьба человека) *1959*
