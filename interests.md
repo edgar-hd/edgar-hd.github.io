@@ -65,6 +65,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Kekexili: Mountain Patrol (ཨ་ཆེན་གངས་རྒྱལ།) *2004*
 
+- The Taste of Tea (茶の味) *2004*
+
 - A History of Violence *2005*
 
 - Volver *2006*
