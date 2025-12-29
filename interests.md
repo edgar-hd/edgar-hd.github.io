@@ -113,6 +113,8 @@ Similarly, here is a list of film directors I particularly enjoy (Surname alphab
 
 - David Cronenberg
 
+- Ryusuke Hamaguchi (濱口竜介)
+
 - Naomi Kawase (河瀨直美)
 
 - Satoshi Kon (今敏)
