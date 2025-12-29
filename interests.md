@@ -71,6 +71,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Volver *2006*
 
+- Paprika (パプリカ) *2006*
+
 - 5 Centimeters per Second (秒速5センチメートル) *2007*
 
 - A Christmas Tale (Un conte de Noël) *2008*
