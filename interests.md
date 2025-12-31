@@ -91,6 +91,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Your Name (君の名は) *2016*
 
+- A Silent Voice (聲の形) *2016*
+
 - You Were Never Really Here *2017*
 
 - Wrath of Silence (暴裂无声) *2017*
