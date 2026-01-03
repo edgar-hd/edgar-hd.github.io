@@ -29,8 +29,6 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Solaris (Солярис) *1972*
 
-- The Godfather *1972*
-
 - Taxi Driver *1976*
 
 - Un Dessert pour Constance (Dessert for Constance) *1981*
@@ -96,6 +94,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 - You Were Never Really Here *2017*
 
 - Wrath of Silence (暴裂无声) *2017*
+
+- One Cut of the Dead ((カメラを止めるな!) *2017*
 
 - Cold War (Zimna wojna) *2018*
 
