@@ -35,6 +35,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Un Dessert pour Constance (Dessert for Constance) *1981*
 
+- Tampopo (タンポポ) *1985*
+
 - Neo Tokyo (迷宮物語) *1987*
 
 - Akira (アキラ) *1988*
