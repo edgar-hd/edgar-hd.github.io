@@ -8,7 +8,7 @@ lang: en
 
 ![My face](/assets/Tezca.jpg)
 
-I work as a ML data scientist at [Preply](https://preply.com/), based in Barcelona, Spain. Main interests are recommender systems, causal inference and stable diffusion.
+I work as an applied scientist at [Preply](https://preply.com/), based in Barcelona, Spain. Main interests are deep learning and recommender systems.
 
 I enjoy playing tennis, reading novels and philosophy (very slowly), drinking wild beer and watching old movies, see [Arbitrary thoughts](https://edgar-hd.github.io/interests/).
 

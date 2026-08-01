@@ -7,7 +7,7 @@ lang: en
 
 **Work Experience**
 
-**2024 - present** : Data Scientist at [Preply](https://preply.com/), Barcelona, Spain.
+**2024 - present** : Applied Scientist at [Preply](https://preply.com/), Barcelona, Spain.
 
 **2022 - 2024** : Data Scientist at [eDreams ODIGEO](https://www.edreamsodigeo.com/), Barcelona, Spain.
 
