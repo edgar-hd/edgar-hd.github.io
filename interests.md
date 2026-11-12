@@ -41,6 +41,8 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Neo Tokyo (迷宮物語) *1987*
 
+- The Emperor's Naked Army Marches On (ゆきゆきて、神軍) *1987*
+
 - Akira (アキラ) *1988*
 
 - Tetsuo: The Iron Man (鉄男) *1989*
@@ -83,11 +85,13 @@ For no particular reason, here is a list of films which I've enjoyed (Chronologi
 
 - Like Father, Like Son (そして父になる) *2013*
 
-- Leviathan (Левиафан) *2014*
+- Birdman or (The Unexpected Virtue of Ignorance) *2014*
 
 - Far from Men (Loin des hommes) *2014*
 
-- Birdman or (The Unexpected Virtue of Ignorance) *2014*
+- Leviathan (Левиафан) *2014*
+
+- Still the Water (2つ目の窓) *2014*
 
 - Sweet Bean (あん) *2015*
 
